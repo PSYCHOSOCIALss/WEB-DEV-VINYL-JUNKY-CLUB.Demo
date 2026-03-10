@@ -1,11 +1,22 @@
-> เว็บไซต์สามารถแสดงผลแบบ Multi-Section (Lobby / Shop / Gift Card) พร้อมระบบเลื่อนหน้าจอแบบ Smooth Scroll
+# Vinyl Junky – Record Store Website
 
-> ระบบแอนิเมชันโลโก้แบบ DVD Floating ทำงานอัตโนมัติและเปลี่ยนสีเมื่อชนขอบหน้าจอ
+Vinyl Junky is a website concept for browsing and exploring vinyl records.
 
-> แสดงหมวดหมู่สินค้า (New Releases / Best Sellers / Top Artists) พร้อมปุ่มนำทาง
+The goal of this project is to practice **frontend web development and UI layout design**.
 
-> ระบบ Artist Marquee แสดงรายชื่อศิลปินแบบเลื่อนอัตโนมัติ และหยุดเมื่อ Hover
+## Tech Stack
 
-> หน้า Gift Card สามารถเลือกมูลค่าและจำนวนสินค้า พร้อมปุ่ม Add to Cart
+- HTML
+- CSS
+- JavaScript
 
-> ออกแบบ UI ด้วย HTML, CSS และ JavaScript โดยใช้ Layout แบบ Responsive และ Animation Effect
+## Features
+
+- Vinyl record catalog
+- Product layout design
+- Responsive user interface
+- Music record browsing experience
+
+## Project Goal
+
+To design a visually engaging website for vinyl collectors and music enthusiasts.
